@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "uart.h": "c",
+        "stm32f1xx.h": "c",
+        "system_stm32f1xx.h": "c",
+        "stm32f103xb.h": "c",
+        "stm32f103xe.h": "c",
+        "sys.h": "c",
+        "*.ini": "c"
+    }
+}
